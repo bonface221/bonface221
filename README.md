@@ -16,5 +16,5 @@ I'm a software development student who is very passionate about solving complica
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/bonface-maina-a7b834235)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/twinbro10)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bonface.maina.186)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/bonface.maina.186)
 
