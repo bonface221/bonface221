@@ -12,6 +12,6 @@ I'm a software development student who is very passionate about solving complica
   <img height="180rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonface221&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <br>
-## <img height="40" src="https://raw.githubusercontent.com/kyubey.gif"/> Links
+## <img height="40" src="https://github.com/bonface221/bonface221/blob/master/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](www.linkedin.com/in/bonface-maina-a7b834235)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/twinbro10)
