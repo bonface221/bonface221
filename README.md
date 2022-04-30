@@ -13,5 +13,5 @@ I'm a software development student who is very passionate about solving complica
 </div>
 <br>
 ## <img height="40" src="https://github.com/bonface221/bonface221/blob/master/kyubey.gif"/> Links
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](www.linkedin.com/in/bonface-maina-a7b834235)
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/bonface-maina-a7b834235)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/twinbro10)
