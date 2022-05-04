@@ -8,7 +8,7 @@ I'm a software development student who is very passionate about solving complica
 
 <br>
 <div align="center">
-  <img height="170rem" width="100%" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+  <img height="170rem" width="50%" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
   <img height="170rem" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonface221&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
 
