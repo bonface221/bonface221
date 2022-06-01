@@ -12,7 +12,7 @@ I'm a software development student who is very passionate about solving complica
   <img height="170rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonface221&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
-## <img height="45" src="https://github.com/bonface221/bonface221/blob/master/kyubey.gif"/>Links
+## <img height="40" src="https://github.com/bonface221/bonface221/blob/master/kyubey.gif"/>Links
 
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/bonface-maina-a7b834235)
