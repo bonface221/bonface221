@@ -8,8 +8,8 @@ I'm a software development student who is very passionate about solving complica
 
 <br>
 <div align="center">
-  <img height="170rem" width="auto" src="https://github-readme-stats-beryl.vercel.app/api?username=bonface221&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="170rem" width="auto"  src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=bonface221&layout=compact&langs_count=7&theme=nord"/>
+  <img height="170rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="170rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonface221&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 ## <img height="40" src="https://github.com/bonface221/bonface221/blob/master/kyubey.gif"/>Links
@@ -18,4 +18,4 @@ I'm a software development student who is very passionate about solving complica
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/bonface-maina-a7b834235)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/twinbro10)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/bonface.maina.186)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mainaboniface221@gmail.com)](mailto:mainaboniface221@gmail.com)
