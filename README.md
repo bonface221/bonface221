@@ -6,6 +6,12 @@
 
 [![Github](https://img.shields.io/github/followers/bonface221?label=Follow&style=social)](https://github.com/bonface221)
 
+<h3> &nbsp;👩🏾‍💻 About Me </h3>
+
+I'm a software development student who is very passionate about solving complicated problems and creating software solutions :web:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
+
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonface221" alt="jeromehardaway" /></a> </p>
 
 - 🎥 I’m currently building: **Fullstack web apps**
@@ -18,11 +24,8 @@
 
 - 💬 Ask me about **Git, React, Next, AI tools, Getting the Software Engineering Job**
 
-<h3> &nbsp;👩🏾‍💻 About Me </h3>
+<h3 align="left">My stats:</h3>
 
-I'm a software development student who is very passionate about solving complicated problems and creating software solutions :web:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
-
-<br>
 <div align="center" display='flex'>
   <img height="170rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="170rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonface221&layout=compact&langs_count=7&theme=nord"/>
