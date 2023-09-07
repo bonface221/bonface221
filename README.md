@@ -12,7 +12,7 @@ I'm a software development student who is very passionate about solving complica
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonface221" alt="jeromehardaway" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonface221&margin-w=15&margin-h=15" alt="bonface221" /></a> </p>
 
 - 🎥 I’m currently building: **Fullstack web apps**
 
