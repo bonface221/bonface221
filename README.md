@@ -26,8 +26,7 @@ I'm a software development student who is very passionate about solving complica
 
 <h3 align="left">My Github Stats:</h3>
 
-<div style="overflow:hidden;">
-<table style="overflow:hidden;">
+<table overflow='hidden' height='fit-content'>
   <tr>
     <td>
       <a href="https://github.com/bonface221"><img alt="Bonface221' Github Stats" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
@@ -41,7 +40,6 @@ I'm a software development student who is very passionate about solving complica
     </td>
   <tr>
 </table>
-</div>
 
 <!-- <div align="center" display='flex'>
   <img height="170rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
