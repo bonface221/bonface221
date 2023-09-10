@@ -26,6 +26,7 @@ I'm a software development student who is very passionate about solving complica
 
 <h3 align="left">My Github Stats:</h3>
 
+<div style="overflow:hidden;">
 <table style="overflow:hidden;">
   <tr>
     <td>
@@ -40,6 +41,7 @@ I'm a software development student who is very passionate about solving complica
     </td>
   <tr>
 </table>
+</div>
 
 <!-- <div align="center" display='flex'>
   <img height="170rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
