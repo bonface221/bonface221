@@ -38,8 +38,8 @@ I'm a software development student who is very passionate about solving complica
     <td>
       <a align="center" href="https://github.com/bonface221"><img alt="Rodgers' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonface221&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
-  <tr>
-<tr></tr>
+  </tr>
+
 </table>
 
 <!-- <div align="center" display='flex'>
