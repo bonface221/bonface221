@@ -24,12 +24,27 @@ I'm a software development student who is very passionate about solving complica
 
 - 💬 Ask me about **Git, React, Next, AI tools, Getting the Software Engineering Job**
 
-<h3 align="left">My stats:</h3>
+<h3 align="left">My Github Stats:</h3>
 
-<div align="center" display='flex'>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/omondi8399"><img alt="Bonface221' Github Stats" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+    </td>
+    <td>
+       <a href="http://www.github.com/bonface221"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bonface221&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    </td>
+    <td>
+      <a align="center" href="https://github.com/bonface221"><img alt="Rodgers' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonface221&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  <tr>
+</table>
+
+<!-- <div align="center" display='flex'>
   <img height="170rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="170rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonface221&layout=compact&langs_count=7&theme=nord"/>
-</div>
+</div> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
