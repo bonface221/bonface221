@@ -26,10 +26,10 @@ I'm a software development student who is very passionate about solving complica
 
 <h3 align="left">My Github Stats:</h3>
 
-<table>
+<table overflow='hidden'>
   <tr>
     <td>
-      <a href="https://github.com/omondi8399"><img alt="Bonface221' Github Stats" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+      <a href="https://github.com/bonface221"><img alt="Bonface221' Github Stats" src="https://github-readme-stats.vercel.app/api?username=bonface221&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
     </td>
     <td>
        <a href="http://www.github.com/bonface221"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bonface221&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
